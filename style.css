@@ -18,7 +18,7 @@ body {
 
 	position: relative;
 	width: 414px;
-	height: 800px;
+	height: 850px;
 	left: 72px;
 	top: 40px;
 
@@ -75,6 +75,7 @@ body {
 	top: 420px;
 	font-family: "Poppins", sans-serif;
 	width: 350px;
+	margin-top: 35px;
 }
 .contact {
 	color: #f8835b;
